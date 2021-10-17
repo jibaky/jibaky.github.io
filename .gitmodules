@@ -1,0 +1,3 @@
+[submodule "hacktoberfest2021"]
+	path = hacktoberfest2021
+	url = https://github.com/jibaky/hacktoberfest2021.git
